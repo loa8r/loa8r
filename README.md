@@ -39,13 +39,13 @@
 
   <br/><br/>
 
-  <!-- Backend & Programming -->
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="CSharp" src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+ <!-- Backend & Programming -->
+<img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img alt="CSharp" src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
 
-  <br/><br/>
+<br/><br/>
 
   <!-- Design -->
   <img alt="Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
