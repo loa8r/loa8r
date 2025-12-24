@@ -47,7 +47,7 @@
 
   <br/><br/>
 
-  <!-- Design & Tools -->
+  <!-- Design -->
   <img alt="Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
   <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" />
   <img alt="UML" src="https://img.shields.io/badge/-UML-000000?style=flat-square&logo=uml&logoColor=white" />
