@@ -5,7 +5,7 @@
 
 <p>
   Welcome to my GitHub profile! <br/>
-  I'm <b>Loay Fahman Al-Radmani</b>, a <b>Flutter & Frontend Developer</b>, Web Designer, and Instagram content creator.
+  I'm <b>Loai Fahman Al-Radmani</b>, a <b>Flutter & Frontend Developer</b>, Web Designer, and Instagram content creator.
 </p>
 
 <hr/>
@@ -23,13 +23,12 @@
 
 <h3>🎬 UI Preview</h3>
 <p>
+  <!-- ضع ملف gif داخل المستودع مثلا: /assets/login-ui.gif -->
   <img src="assets/login-ui.gif" width="320" alt="Login UI Preview"/>
 </p>
 
 <hr/>
 
-<h3>🛠 Technologies & Skills</h3>
-<p>
 <h3>🛠 Technologies & Skills</h3>
 
 <p>
@@ -38,7 +37,7 @@
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
 <p>
@@ -60,20 +59,6 @@
   <!-- Tools -->
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
-
-
-
-  <!-- Design -->
-  <img alt="Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" />
-  <img alt="UML" src="https://img.shields.io/badge/-UML-000000?style=flat-square&logo=uml&logoColor=white" />
-
-  <br/><br/>
-
-  <!-- Tools -->
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 <hr/>
