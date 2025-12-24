@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If 
+[![](https://raw.githubusercontent.com/adamalston/Loai/master/profile.gif)](https://www.adamalston.com/)
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   Hey! Nice to see you.
